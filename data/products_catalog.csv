@@ -1,0 +1,41 @@
+item_id,title,category,price,tag
+E101,Wireless Noise-Canceling Headphones,Electronics,129.99,Audio
+E102,Smart Fitness Watch V2,Electronics,89.99,Wearables
+E103,Ultra-HD 4K Action Camera,Electronics,199.99,Cameras
+E104,Mechanical RGB Gaming Keyboard,Electronics,69.99,Gaming
+E105,Fast Wireless Charging Dock 3-in-1,Electronics,39.99,Accessories
+E106,Portable Bluetooth Speaker (Waterproof),Electronics,49.99,Audio
+E107,Ergonomic Vertical Mouse,Electronics,34.99,Accessories
+E108,USB-C Dual Display Hub Pro,Electronics,54.99,Computers
+F201,Classic Organic Cotton Hoodie,Fashion & Apparel,45.0,Casual
+F202,Lightweight Running Sneakers,Fashion & Apparel,79.99,Footwear
+F203,Water-Resistant Commuter Backpack,Fashion & Apparel,59.99,Bags
+F204,UV-Protection Polarized Sunglasses,Fashion & Apparel,28.5,Eyewear
+F205,Slim Fit Breathable Chinos,Fashion & Apparel,49.0,Pants
+F206,Seamless Moisture-Wicking T-Shirt,Fashion & Apparel,22.0,Athletic
+F207,Merino Wool Winter Scarf,Fashion & Apparel,32.0,Accessories
+F208,Minimalist Leather Cardholder,Fashion & Apparel,19.99,Accessories
+H301,Stainless Steel Espresso Machine,Home & Kitchen,149.0,Appliances
+H302,Digital Air Fryer 5.8-Quart,Home & Kitchen,89.99,Appliances
+H303,Cast Iron Pre-Seasoned Skillet,Home & Kitchen,39.99,Cookware
+H304,Aroma Essential Oil Diffuser,Home & Kitchen,25.99,Wellness
+H305,Insulated Stainless Water Bottle 1L,Home & Kitchen,24.5,Dining
+H306,Memory Foam Ergonomic Contour Pillow,Home & Kitchen,42.0,Bedding
+H307,Bamboo Cutting Board with Juice Groove,Home & Kitchen,21.99,Kitchenware
+H308,Smart LED Dimmable Desk Lamp,Home & Kitchen,35.0,Lighting
+B401,Hydrating Hyaluronic Acid Serum,Beauty & Care,26.0,Skincare
+B402,Sonic Electric Toothbrush Rechargeable,Beauty & Care,45.0,Oral Care
+B403,Organic Argan Oil Hair Mask,Beauty & Care,18.5,Haircare
+B404,Broad Spectrum Mineral Sunscreen SPF 50,Beauty & Care,21.0,Skincare
+B405,Vitamin C Radiance Face Cleanser,Beauty & Care,16.5,Skincare
+B406,Aromatherapy Lavender Bath Salts,Beauty & Care,14.99,Body
+B407,Compact Ionic Travel Hair Dryer,Beauty & Care,38.0,Styling
+B408,Nourishing Shea Butter Hand Cream,Beauty & Care,11.5,Body
+M501,Continual Machine Learning in Practice,Books & Media,48.0,Tech Books
+M502,Designing Data-Intensive Applications,Books & Media,52.0,Tech Books
+M503,Atomic Habits: Proven Framework,Books & Media,18.0,Self-Help
+M504,Deep Work: Rules for Focused Success,Books & Media,17.5,Self-Help
+M505,The Psychology of Money,Books & Media,19.99,Finance
+M506,Project Hail Mary: A Sci-Fi Odyssey,Books & Media,16.0,Fiction
+M507,Zero to One: Notes on Startups,Books & Media,22.0,Business
+M508,Clean Code: A Handbook of Agile Craft,Books & Media,44.0,Tech Books

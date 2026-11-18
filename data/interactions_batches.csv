@@ -1,0 +1,1261 @@
+batch_id,user_id,item_id,rating,is_positive,group_id,group_label,item_category
+1,U090,E101,3.6,0,1,Group B (Premium Shoppers),Electronics
+1,U005,H307,3.8,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U071,E105,3.9,1,1,Group B (Premium Shoppers),Electronics
+1,U002,B407,4.6,1,0,Group A (Standard Shoppers),Beauty & Care
+1,U024,M503,3.9,1,0,Group A (Standard Shoppers),Books & Media
+1,U087,H301,2.4,0,1,Group B (Premium Shoppers),Home & Kitchen
+1,U054,H303,4.7,1,1,Group B (Premium Shoppers),Home & Kitchen
+1,U012,B408,3.0,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U012,M502,3.9,1,0,Group A (Standard Shoppers),Books & Media
+1,U003,B404,4.2,1,0,Group A (Standard Shoppers),Beauty & Care
+1,U096,F206,4.1,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U077,F206,3.2,0,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U097,M507,2.6,0,1,Group B (Premium Shoppers),Books & Media
+1,U067,M507,4.7,1,1,Group B (Premium Shoppers),Books & Media
+1,U081,M503,4.0,1,1,Group B (Premium Shoppers),Books & Media
+1,U080,B402,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U099,M503,2.8,0,1,Group B (Premium Shoppers),Books & Media
+1,U065,H306,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+1,U090,M504,5.0,1,1,Group B (Premium Shoppers),Books & Media
+1,U054,H302,3.4,0,1,Group B (Premium Shoppers),Home & Kitchen
+1,U052,E108,3.2,0,1,Group B (Premium Shoppers),Electronics
+1,U038,E101,2.5,0,0,Group A (Standard Shoppers),Electronics
+1,U028,M501,5.0,1,0,Group A (Standard Shoppers),Books & Media
+1,U010,E105,4.4,1,0,Group A (Standard Shoppers),Electronics
+1,U056,E105,4.1,1,1,Group B (Premium Shoppers),Electronics
+1,U017,H308,3.5,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U093,M506,4.4,1,1,Group B (Premium Shoppers),Books & Media
+1,U007,E107,3.9,1,0,Group A (Standard Shoppers),Electronics
+1,U054,H301,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+1,U022,F207,4.9,1,0,Group A (Standard Shoppers),Fashion & Apparel
+1,U060,B405,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+1,U098,B401,3.3,0,1,Group B (Premium Shoppers),Beauty & Care
+1,U021,B406,3.1,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U035,F205,2.9,0,0,Group A (Standard Shoppers),Fashion & Apparel
+1,U062,E104,3.3,0,1,Group B (Premium Shoppers),Electronics
+1,U025,B402,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+1,U079,H302,3.4,0,1,Group B (Premium Shoppers),Home & Kitchen
+1,U064,B408,3.2,0,1,Group B (Premium Shoppers),Beauty & Care
+1,U079,H301,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+1,U030,H301,3.6,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U046,E108,3.8,1,0,Group A (Standard Shoppers),Electronics
+1,U030,H302,4.5,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U089,B403,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U039,F204,4.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+1,U047,H306,4.3,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U092,M508,3.6,0,1,Group B (Premium Shoppers),Books & Media
+1,U035,H303,3.4,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U070,M502,1.7,0,1,Group B (Premium Shoppers),Books & Media
+1,U044,B401,4.7,1,0,Group A (Standard Shoppers),Beauty & Care
+1,U072,E103,4.1,1,1,Group B (Premium Shoppers),Electronics
+1,U034,H304,3.3,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U022,F207,3.4,0,0,Group A (Standard Shoppers),Fashion & Apparel
+1,U048,E106,2.5,0,0,Group A (Standard Shoppers),Electronics
+1,U092,M508,3.9,1,1,Group B (Premium Shoppers),Books & Media
+1,U077,F201,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U085,B401,4.9,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U075,B403,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U033,E101,5.0,1,0,Group A (Standard Shoppers),Electronics
+1,U085,B405,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+1,U082,H305,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+1,U092,M508,4.8,1,1,Group B (Premium Shoppers),Books & Media
+1,U050,M508,3.4,0,0,Group A (Standard Shoppers),Books & Media
+1,U004,H307,4.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U006,M507,4.0,1,0,Group A (Standard Shoppers),Books & Media
+1,U028,M503,3.0,0,0,Group A (Standard Shoppers),Books & Media
+1,U055,H302,4.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+1,U052,F208,3.0,0,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U034,H308,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U019,M502,4.8,1,0,Group A (Standard Shoppers),Books & Media
+1,U030,H306,4.9,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U093,B404,3.2,0,1,Group B (Premium Shoppers),Beauty & Care
+1,U018,E104,4.7,1,0,Group A (Standard Shoppers),Electronics
+1,U040,E106,2.8,0,0,Group A (Standard Shoppers),Electronics
+1,U003,B408,3.5,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U087,E105,4.4,1,1,Group B (Premium Shoppers),Electronics
+1,U020,H305,4.4,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U049,B407,2.8,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U042,B401,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+1,U026,H301,3.8,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U069,M504,3.4,0,1,Group B (Premium Shoppers),Books & Media
+1,U089,B403,4.5,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U032,F204,5.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+1,U019,M506,4.8,1,0,Group A (Standard Shoppers),Books & Media
+1,U054,M508,3.8,0,1,Group B (Premium Shoppers),Books & Media
+1,U066,F207,2.8,0,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U017,H306,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U034,H303,3.6,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U058,M505,2.2,0,1,Group B (Premium Shoppers),Books & Media
+1,U030,H308,4.5,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U080,M508,3.3,0,1,Group B (Premium Shoppers),Books & Media
+1,U074,E108,3.7,0,1,Group B (Premium Shoppers),Electronics
+1,U095,M507,3.9,1,1,Group B (Premium Shoppers),Books & Media
+1,U050,B401,4.8,1,0,Group A (Standard Shoppers),Beauty & Care
+1,U040,B407,2.6,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U063,M501,3.3,0,1,Group B (Premium Shoppers),Books & Media
+1,U006,M507,3.7,0,0,Group A (Standard Shoppers),Books & Media
+1,U083,H305,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+1,U020,E107,2.6,0,0,Group A (Standard Shoppers),Electronics
+1,U099,B405,3.2,0,1,Group B (Premium Shoppers),Beauty & Care
+1,U059,B405,4.1,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U012,M502,3.8,1,0,Group A (Standard Shoppers),Books & Media
+1,U032,H303,3.1,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U017,E106,3.0,0,0,Group A (Standard Shoppers),Electronics
+1,U011,H306,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U078,F205,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U089,B402,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U091,H305,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+1,U054,H302,3.4,0,1,Group B (Premium Shoppers),Home & Kitchen
+1,U051,B404,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U009,H307,3.0,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U012,F205,3.9,1,0,Group A (Standard Shoppers),Fashion & Apparel
+1,U068,F206,4.4,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U047,M504,3.2,0,0,Group A (Standard Shoppers),Books & Media
+1,U015,B407,3.6,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U088,F201,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U063,F203,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U066,F206,2.8,0,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U032,F203,3.7,0,0,Group A (Standard Shoppers),Fashion & Apparel
+1,U087,F207,4.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U047,F205,2.1,0,0,Group A (Standard Shoppers),Fashion & Apparel
+1,U096,F206,4.8,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U028,M502,4.8,1,0,Group A (Standard Shoppers),Books & Media
+1,U046,H307,4.1,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U058,E104,5.0,1,1,Group B (Premium Shoppers),Electronics
+1,U010,E104,3.9,1,0,Group A (Standard Shoppers),Electronics
+1,U069,E108,3.1,0,1,Group B (Premium Shoppers),Electronics
+1,U054,H304,2.5,0,1,Group B (Premium Shoppers),Home & Kitchen
+1,U054,F202,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U037,B403,3.3,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U069,E105,4.5,1,1,Group B (Premium Shoppers),Electronics
+1,U071,B407,4.1,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U047,H308,3.3,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U091,H305,4.2,1,1,Group B (Premium Shoppers),Home & Kitchen
+1,U029,H306,4.8,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U064,E101,3.6,0,1,Group B (Premium Shoppers),Electronics
+1,U066,F205,4.4,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U037,B402,4.1,1,0,Group A (Standard Shoppers),Beauty & Care
+1,U058,B407,1.5,0,1,Group B (Premium Shoppers),Beauty & Care
+1,U037,B408,3.7,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U036,E104,4.4,1,0,Group A (Standard Shoppers),Electronics
+1,U002,B408,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+1,U048,M503,3.3,0,0,Group A (Standard Shoppers),Books & Media
+1,U029,H304,4.4,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U031,H301,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U042,M501,3.7,0,0,Group A (Standard Shoppers),Books & Media
+1,U081,M503,3.5,0,1,Group B (Premium Shoppers),Books & Media
+1,U018,B405,2.6,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U050,B407,3.8,0,0,Group A (Standard Shoppers),Beauty & Care
+1,U002,B407,4.4,1,0,Group A (Standard Shoppers),Beauty & Care
+1,U033,E101,3.9,1,0,Group A (Standard Shoppers),Electronics
+1,U014,F202,4.3,1,0,Group A (Standard Shoppers),Fashion & Apparel
+1,U048,M503,4.0,1,0,Group A (Standard Shoppers),Books & Media
+1,U066,F208,4.6,1,1,Group B (Premium Shoppers),Fashion & Apparel
+1,U084,B405,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+1,U074,E104,4.6,1,1,Group B (Premium Shoppers),Electronics
+1,U004,H306,4.3,1,0,Group A (Standard Shoppers),Home & Kitchen
+1,U001,E104,5.0,1,0,Group A (Standard Shoppers),Electronics
+1,U059,B402,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+1,U034,H303,3.0,0,0,Group A (Standard Shoppers),Home & Kitchen
+1,U001,E105,4.1,1,0,Group A (Standard Shoppers),Electronics
+2,U073,F206,2.8,0,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U042,H308,2.7,0,0,Group A (Standard Shoppers),Home & Kitchen
+2,U065,H303,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U021,B408,3.8,0,0,Group A (Standard Shoppers),Beauty & Care
+2,U083,M508,2.9,0,1,Group B (Premium Shoppers),Books & Media
+2,U095,M505,3.9,1,1,Group B (Premium Shoppers),Books & Media
+2,U014,B405,4.9,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U034,H301,2.6,0,0,Group A (Standard Shoppers),Home & Kitchen
+2,U087,E104,5.0,1,1,Group B (Premium Shoppers),Electronics
+2,U067,M501,4.9,1,1,Group B (Premium Shoppers),Books & Media
+2,U006,M502,4.0,1,0,Group A (Standard Shoppers),Books & Media
+2,U085,B401,3.5,0,1,Group B (Premium Shoppers),Beauty & Care
+2,U081,M505,3.1,0,1,Group B (Premium Shoppers),Books & Media
+2,U090,B408,3.1,0,1,Group B (Premium Shoppers),Beauty & Care
+2,U093,M502,3.6,0,1,Group B (Premium Shoppers),Books & Media
+2,U100,F206,2.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U079,H306,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U073,H308,4.7,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U063,F201,4.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U031,H308,4.3,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U005,H305,3.9,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U013,F203,2.5,0,0,Group A (Standard Shoppers),Fashion & Apparel
+2,U050,B408,3.6,0,0,Group A (Standard Shoppers),Beauty & Care
+2,U063,F207,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U069,E103,4.4,1,1,Group B (Premium Shoppers),Electronics
+2,U086,B401,3.3,0,1,Group B (Premium Shoppers),Beauty & Care
+2,U028,M506,4.4,1,0,Group A (Standard Shoppers),Books & Media
+2,U005,H302,3.4,0,0,Group A (Standard Shoppers),Home & Kitchen
+2,U090,H305,3.2,0,1,Group B (Premium Shoppers),Home & Kitchen
+2,U071,B408,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U029,H308,3.4,0,0,Group A (Standard Shoppers),Home & Kitchen
+2,U100,E101,4.6,1,1,Group B (Premium Shoppers),Electronics
+2,U038,M507,4.9,1,0,Group A (Standard Shoppers),Books & Media
+2,U089,B407,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+2,U039,F208,5.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+2,U046,B407,3.0,0,0,Group A (Standard Shoppers),Beauty & Care
+2,U013,E101,3.4,0,0,Group A (Standard Shoppers),Electronics
+2,U065,E104,2.9,0,1,Group B (Premium Shoppers),Electronics
+2,U035,E106,2.9,0,0,Group A (Standard Shoppers),Electronics
+2,U063,M503,2.4,0,1,Group B (Premium Shoppers),Books & Media
+2,U098,B406,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U002,B406,4.5,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U031,E105,2.7,0,0,Group A (Standard Shoppers),Electronics
+2,U014,B401,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U054,H308,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U003,B404,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U034,H304,3.9,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U056,E102,4.4,1,1,Group B (Premium Shoppers),Electronics
+2,U083,E107,2.8,0,1,Group B (Premium Shoppers),Electronics
+2,U003,B402,4.2,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U042,B403,3.3,0,0,Group A (Standard Shoppers),Beauty & Care
+2,U006,M504,4.4,1,0,Group A (Standard Shoppers),Books & Media
+2,U072,M507,1.9,0,1,Group B (Premium Shoppers),Books & Media
+2,U094,F203,4.1,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U007,M505,2.4,0,0,Group A (Standard Shoppers),Books & Media
+2,U017,H301,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U003,E104,2.6,0,0,Group A (Standard Shoppers),Electronics
+2,U007,E102,4.0,1,0,Group A (Standard Shoppers),Electronics
+2,U026,H308,3.5,0,0,Group A (Standard Shoppers),Home & Kitchen
+2,U092,H301,3.1,0,1,Group B (Premium Shoppers),Home & Kitchen
+2,U065,H308,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U089,F203,2.7,0,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U083,E104,4.9,1,1,Group B (Premium Shoppers),Electronics
+2,U043,B407,4.6,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U056,E102,3.6,0,1,Group B (Premium Shoppers),Electronics
+2,U042,B407,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U005,H305,4.3,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U062,B408,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U072,E105,4.1,1,1,Group B (Premium Shoppers),Electronics
+2,U068,E105,3.8,1,1,Group B (Premium Shoppers),Electronics
+2,U008,B404,4.0,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U100,M508,1.0,0,1,Group B (Premium Shoppers),Books & Media
+2,U077,E107,2.4,0,1,Group B (Premium Shoppers),Electronics
+2,U075,F206,4.8,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U032,F207,4.3,1,0,Group A (Standard Shoppers),Fashion & Apparel
+2,U081,M506,3.2,0,1,Group B (Premium Shoppers),Books & Media
+2,U086,B401,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U098,B406,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U061,M506,3.9,1,1,Group B (Premium Shoppers),Books & Media
+2,U007,H303,2.1,0,0,Group A (Standard Shoppers),Home & Kitchen
+2,U092,B404,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+2,U056,M504,3.6,0,1,Group B (Premium Shoppers),Books & Media
+2,U020,H306,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U096,F206,4.4,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U041,H305,3.8,0,0,Group A (Standard Shoppers),Home & Kitchen
+2,U009,F203,4.6,1,0,Group A (Standard Shoppers),Fashion & Apparel
+2,U072,E104,3.9,1,1,Group B (Premium Shoppers),Electronics
+2,U044,F201,5.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+2,U024,M507,3.5,0,0,Group A (Standard Shoppers),Books & Media
+2,U097,F203,4.6,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U030,H308,4.6,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U048,M508,4.2,1,0,Group A (Standard Shoppers),Books & Media
+2,U043,F205,3.3,0,0,Group A (Standard Shoppers),Fashion & Apparel
+2,U016,B401,4.2,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U037,H302,3.7,0,0,Group A (Standard Shoppers),Home & Kitchen
+2,U087,E105,4.3,1,1,Group B (Premium Shoppers),Electronics
+2,U067,F202,3.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U001,M508,3.1,0,0,Group A (Standard Shoppers),Books & Media
+2,U025,B404,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U030,H303,4.5,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U051,F201,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U089,B401,4.5,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U021,E106,2.4,0,0,Group A (Standard Shoppers),Electronics
+2,U079,H308,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U060,B401,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U081,E106,3.2,0,1,Group B (Premium Shoppers),Electronics
+2,U010,E106,3.1,0,0,Group A (Standard Shoppers),Electronics
+2,U100,E104,4.2,1,1,Group B (Premium Shoppers),Electronics
+2,U004,B403,4.1,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U059,B406,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U055,H304,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U066,B408,2.6,0,1,Group B (Premium Shoppers),Beauty & Care
+2,U060,F205,3.0,0,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U059,B408,4.3,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U065,H302,3.5,0,1,Group B (Premium Shoppers),Home & Kitchen
+2,U052,E101,4.0,1,1,Group B (Premium Shoppers),Electronics
+2,U059,B403,4.1,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U052,M503,3.0,0,1,Group B (Premium Shoppers),Books & Media
+2,U017,H301,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U070,H307,4.2,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U066,F203,3.8,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U036,E101,3.9,1,0,Group A (Standard Shoppers),Electronics
+2,U097,F207,4.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U070,H306,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U007,M508,2.2,0,0,Group A (Standard Shoppers),Books & Media
+2,U075,B406,3.1,0,1,Group B (Premium Shoppers),Beauty & Care
+2,U008,H307,4.5,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U057,H301,2.9,0,1,Group B (Premium Shoppers),Home & Kitchen
+2,U069,H301,2.1,0,1,Group B (Premium Shoppers),Home & Kitchen
+2,U002,B404,4.5,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U098,H307,3.6,0,1,Group B (Premium Shoppers),Home & Kitchen
+2,U056,F201,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U083,E108,4.9,1,1,Group B (Premium Shoppers),Electronics
+2,U030,H301,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U062,B406,3.5,0,1,Group B (Premium Shoppers),Beauty & Care
+2,U073,H304,4.1,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U019,M503,3.6,0,0,Group A (Standard Shoppers),Books & Media
+2,U072,E103,3.9,1,1,Group B (Premium Shoppers),Electronics
+2,U017,H308,3.2,0,0,Group A (Standard Shoppers),Home & Kitchen
+2,U053,F205,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U044,F207,4.7,1,0,Group A (Standard Shoppers),Fashion & Apparel
+2,U069,E104,3.8,0,1,Group B (Premium Shoppers),Electronics
+2,U006,M507,3.4,0,0,Group A (Standard Shoppers),Books & Media
+2,U058,H304,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+2,U096,F205,4.6,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U070,E105,2.5,0,1,Group B (Premium Shoppers),Electronics
+2,U100,E104,4.2,1,1,Group B (Premium Shoppers),Electronics
+2,U016,B408,3.1,0,0,Group A (Standard Shoppers),Beauty & Care
+2,U080,B405,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+2,U031,H303,4.2,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U077,E107,3.3,0,1,Group B (Premium Shoppers),Electronics
+2,U070,H307,4.1,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U049,B408,4.6,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U096,F208,4.5,1,1,Group B (Premium Shoppers),Fashion & Apparel
+2,U021,H301,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U029,E102,1.7,0,0,Group A (Standard Shoppers),Electronics
+2,U054,H304,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U100,E108,4.8,1,1,Group B (Premium Shoppers),Electronics
+2,U092,E107,1.7,0,1,Group B (Premium Shoppers),Electronics
+2,U034,M507,2.7,0,0,Group A (Standard Shoppers),Books & Media
+2,U060,H308,1.7,0,1,Group B (Premium Shoppers),Home & Kitchen
+2,U046,M504,2.5,0,0,Group A (Standard Shoppers),Books & Media
+2,U017,H304,4.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U091,B408,3.5,0,1,Group B (Premium Shoppers),Beauty & Care
+2,U093,M507,4.5,1,1,Group B (Premium Shoppers),Books & Media
+2,U081,M506,3.8,1,1,Group B (Premium Shoppers),Books & Media
+2,U072,E105,4.9,1,1,Group B (Premium Shoppers),Electronics
+2,U008,B402,4.7,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U055,E104,3.4,0,1,Group B (Premium Shoppers),Electronics
+2,U038,M508,4.7,1,0,Group A (Standard Shoppers),Books & Media
+2,U037,M506,4.5,1,0,Group A (Standard Shoppers),Books & Media
+2,U077,H306,4.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U082,H306,4.1,1,1,Group B (Premium Shoppers),Home & Kitchen
+2,U084,M506,4.4,1,1,Group B (Premium Shoppers),Books & Media
+2,U013,B402,3.8,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U025,B404,4.8,1,0,Group A (Standard Shoppers),Beauty & Care
+2,U011,H303,4.5,1,0,Group A (Standard Shoppers),Home & Kitchen
+2,U042,E104,3.9,1,0,Group A (Standard Shoppers),Electronics
+2,U030,M508,2.1,0,0,Group A (Standard Shoppers),Books & Media
+2,U077,F207,4.3,1,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U024,M507,2.2,0,0,Group A (Standard Shoppers),Books & Media
+3,U055,H304,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U060,E104,2.6,0,1,Group B (Premium Shoppers),Electronics
+3,U008,B405,4.5,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U071,B408,4.1,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U047,H308,4.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+3,U082,H301,4.7,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U008,B405,4.6,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U002,B401,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U062,B401,4.9,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U041,F208,3.1,0,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U084,F205,2.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U051,F202,3.7,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U045,E102,3.1,0,0,Group A (Standard Shoppers),Electronics
+3,U084,M505,2.1,0,1,Group B (Premium Shoppers),Books & Media
+3,U069,E104,4.5,1,1,Group B (Premium Shoppers),Electronics
+3,U041,E102,4.4,1,0,Group A (Standard Shoppers),Electronics
+3,U007,H303,2.8,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U059,B407,3.9,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U074,B402,3.3,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U084,B403,2.7,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U100,H302,3.2,0,1,Group B (Premium Shoppers),Home & Kitchen
+3,U009,F204,3.0,0,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U071,B402,2.6,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U008,B403,3.2,0,0,Group A (Standard Shoppers),Beauty & Care
+3,U071,B402,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U037,B407,2.6,0,0,Group A (Standard Shoppers),Beauty & Care
+3,U095,M504,4.3,1,1,Group B (Premium Shoppers),Books & Media
+3,U097,F202,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U080,H304,2.4,0,1,Group B (Premium Shoppers),Home & Kitchen
+3,U039,H302,2.8,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U087,E102,4.5,1,1,Group B (Premium Shoppers),Electronics
+3,U065,H307,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U099,B404,2.8,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U081,B407,4.1,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U012,M503,2.3,0,0,Group A (Standard Shoppers),Books & Media
+3,U025,M505,4.0,1,0,Group A (Standard Shoppers),Books & Media
+3,U081,M501,4.6,1,1,Group B (Premium Shoppers),Books & Media
+3,U094,F205,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U069,F202,2.0,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U044,M503,3.8,0,0,Group A (Standard Shoppers),Books & Media
+3,U088,F203,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U065,H305,4.5,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U079,E103,2.9,0,1,Group B (Premium Shoppers),Electronics
+3,U033,E106,4.7,1,0,Group A (Standard Shoppers),Electronics
+3,U003,F203,3.3,0,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U035,M507,3.8,0,0,Group A (Standard Shoppers),Books & Media
+3,U014,B403,3.1,0,0,Group A (Standard Shoppers),Beauty & Care
+3,U055,B408,3.2,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U032,F202,4.9,1,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U039,F201,4.1,1,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U027,H301,3.1,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U093,M502,3.9,1,1,Group B (Premium Shoppers),Books & Media
+3,U051,B407,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U016,B404,4.4,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U088,B406,4.0,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U081,M502,5.0,1,1,Group B (Premium Shoppers),Books & Media
+3,U083,B408,2.9,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U070,H303,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U029,H304,3.0,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U061,M501,4.2,1,1,Group B (Premium Shoppers),Books & Media
+3,U036,F201,4.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U019,M502,5.0,1,0,Group A (Standard Shoppers),Books & Media
+3,U068,B401,3.2,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U050,M506,3.9,1,0,Group A (Standard Shoppers),Books & Media
+3,U018,H306,3.6,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U038,M503,3.2,0,0,Group A (Standard Shoppers),Books & Media
+3,U073,H305,4.1,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U012,M508,4.6,1,0,Group A (Standard Shoppers),Books & Media
+3,U039,F205,4.5,1,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U040,B405,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U092,M506,5.0,1,1,Group B (Premium Shoppers),Books & Media
+3,U078,H301,3.4,0,1,Group B (Premium Shoppers),Home & Kitchen
+3,U035,F208,3.3,0,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U051,B407,4.9,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U032,F207,3.1,0,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U035,M505,3.8,0,0,Group A (Standard Shoppers),Books & Media
+3,U097,F207,4.1,1,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U033,E103,4.1,1,0,Group A (Standard Shoppers),Electronics
+3,U020,B406,2.3,0,0,Group A (Standard Shoppers),Beauty & Care
+3,U090,M507,3.0,0,1,Group B (Premium Shoppers),Books & Media
+3,U097,M507,3.3,0,1,Group B (Premium Shoppers),Books & Media
+3,U033,E105,3.9,1,0,Group A (Standard Shoppers),Electronics
+3,U002,F201,2.8,0,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U069,E105,3.5,0,1,Group B (Premium Shoppers),Electronics
+3,U002,B408,4.6,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U060,B401,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U012,M501,3.5,0,0,Group A (Standard Shoppers),Books & Media
+3,U001,E107,4.1,1,0,Group A (Standard Shoppers),Electronics
+3,U007,H305,2.8,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U075,B404,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U086,B402,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U057,B404,2.8,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U035,M503,3.7,0,0,Group A (Standard Shoppers),Books & Media
+3,U038,M503,5.0,1,0,Group A (Standard Shoppers),Books & Media
+3,U068,F205,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U091,B404,2.8,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U072,E104,3.3,0,1,Group B (Premium Shoppers),Electronics
+3,U100,H302,2.9,0,1,Group B (Premium Shoppers),Home & Kitchen
+3,U041,E104,5.0,1,0,Group A (Standard Shoppers),Electronics
+3,U025,B404,3.4,0,0,Group A (Standard Shoppers),Beauty & Care
+3,U025,B401,2.5,0,0,Group A (Standard Shoppers),Beauty & Care
+3,U040,B404,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U099,B402,3.0,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U052,H302,1.9,0,1,Group B (Premium Shoppers),Home & Kitchen
+3,U057,H305,3.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U081,M506,4.0,1,1,Group B (Premium Shoppers),Books & Media
+3,U061,M507,4.5,1,1,Group B (Premium Shoppers),Books & Media
+3,U100,B407,1.8,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U057,H303,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U001,M508,3.5,0,0,Group A (Standard Shoppers),Books & Media
+3,U018,M503,4.1,1,0,Group A (Standard Shoppers),Books & Media
+3,U079,H307,4.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U007,M508,3.7,0,0,Group A (Standard Shoppers),Books & Media
+3,U076,H303,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U087,E106,5.0,1,1,Group B (Premium Shoppers),Electronics
+3,U100,E103,4.8,1,1,Group B (Premium Shoppers),Electronics
+3,U033,E104,4.2,1,0,Group A (Standard Shoppers),Electronics
+3,U089,B401,3.8,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U001,E103,4.5,1,0,Group A (Standard Shoppers),Electronics
+3,U040,E101,3.5,0,0,Group A (Standard Shoppers),Electronics
+3,U023,E104,5.0,1,0,Group A (Standard Shoppers),Electronics
+3,U046,M508,4.1,1,0,Group A (Standard Shoppers),Books & Media
+3,U027,H305,4.8,1,0,Group A (Standard Shoppers),Home & Kitchen
+3,U004,H306,3.5,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U087,E103,5.0,1,1,Group B (Premium Shoppers),Electronics
+3,U093,M501,3.9,1,1,Group B (Premium Shoppers),Books & Media
+3,U086,B404,3.5,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U015,M501,3.9,1,0,Group A (Standard Shoppers),Books & Media
+3,U070,H305,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U091,H304,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U011,H308,4.6,1,0,Group A (Standard Shoppers),Home & Kitchen
+3,U096,M505,3.2,0,1,Group B (Premium Shoppers),Books & Media
+3,U002,M507,2.7,0,0,Group A (Standard Shoppers),Books & Media
+3,U099,E104,4.0,1,1,Group B (Premium Shoppers),Electronics
+3,U030,H304,4.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+3,U038,E104,1.9,0,0,Group A (Standard Shoppers),Electronics
+3,U052,E105,3.8,0,1,Group B (Premium Shoppers),Electronics
+3,U001,E103,3.0,0,0,Group A (Standard Shoppers),Electronics
+3,U065,M506,2.3,0,1,Group B (Premium Shoppers),Books & Media
+3,U022,F208,3.7,0,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U011,H308,3.3,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U027,H302,3.7,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U051,B401,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U079,F206,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U012,H302,3.0,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U069,E108,4.0,1,1,Group B (Premium Shoppers),Electronics
+3,U071,B406,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U069,E104,4.0,1,1,Group B (Premium Shoppers),Electronics
+3,U066,F201,3.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U013,B401,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U066,F208,4.2,1,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U070,H305,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U061,M504,4.5,1,1,Group B (Premium Shoppers),Books & Media
+3,U002,B401,4.3,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U084,M507,3.8,1,1,Group B (Premium Shoppers),Books & Media
+3,U047,H301,4.5,1,0,Group A (Standard Shoppers),Home & Kitchen
+3,U081,F206,3.1,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U066,F207,3.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U007,E104,4.3,1,0,Group A (Standard Shoppers),Electronics
+3,U095,M501,4.5,1,1,Group B (Premium Shoppers),Books & Media
+3,U053,F208,4.2,1,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U044,F204,2.4,0,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U082,H306,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U055,H301,4.7,1,1,Group B (Premium Shoppers),Home & Kitchen
+3,U049,E108,3.4,0,0,Group A (Standard Shoppers),Electronics
+3,U053,F206,3.7,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U089,B407,4.5,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U040,B403,3.3,0,0,Group A (Standard Shoppers),Beauty & Care
+3,U057,F202,3.2,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U021,H308,3.8,0,0,Group A (Standard Shoppers),Home & Kitchen
+3,U015,B408,4.4,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U086,B405,4.9,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U083,E108,4.0,1,1,Group B (Premium Shoppers),Electronics
+3,U059,B402,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U051,B404,2.7,0,1,Group B (Premium Shoppers),Beauty & Care
+3,U094,F201,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U022,M508,3.1,0,0,Group A (Standard Shoppers),Books & Media
+3,U095,F205,3.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U009,F208,4.3,1,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U049,F205,1.9,0,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U012,M507,3.7,0,0,Group A (Standard Shoppers),Books & Media
+3,U083,B407,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U039,F201,4.5,1,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U087,E104,4.5,1,1,Group B (Premium Shoppers),Electronics
+3,U098,B408,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U094,F203,3.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U062,B405,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+3,U056,H301,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+3,U005,B408,2.6,0,0,Group A (Standard Shoppers),Beauty & Care
+3,U097,F205,4.4,1,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U047,F203,5.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+3,U064,M506,3.5,0,1,Group B (Premium Shoppers),Books & Media
+3,U025,B401,4.2,1,0,Group A (Standard Shoppers),Beauty & Care
+3,U050,E105,3.4,0,0,Group A (Standard Shoppers),Electronics
+3,U066,F203,4.7,1,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U097,F202,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U094,F208,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+3,U003,B408,3.6,0,0,Group A (Standard Shoppers),Beauty & Care
+3,U056,E104,4.4,1,1,Group B (Premium Shoppers),Electronics
+4,U087,E106,4.6,1,1,Group B (Premium Shoppers),Electronics
+4,U089,F206,1.9,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U046,B406,3.1,0,0,Group A (Standard Shoppers),Beauty & Care
+4,U057,H303,4.7,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U064,M503,4.3,1,1,Group B (Premium Shoppers),Books & Media
+4,U078,F203,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U097,H306,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U093,M508,3.9,1,1,Group B (Premium Shoppers),Books & Media
+4,U028,M501,4.8,1,0,Group A (Standard Shoppers),Books & Media
+4,U024,M504,3.6,0,0,Group A (Standard Shoppers),Books & Media
+4,U064,M507,3.7,0,1,Group B (Premium Shoppers),Books & Media
+4,U022,F206,4.3,1,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U014,B407,4.3,1,0,Group A (Standard Shoppers),Beauty & Care
+4,U100,E107,4.5,1,1,Group B (Premium Shoppers),Electronics
+4,U063,F206,3.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U096,M504,2.6,0,1,Group B (Premium Shoppers),Books & Media
+4,U080,M507,2.2,0,1,Group B (Premium Shoppers),Books & Media
+4,U089,B403,3.1,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U057,E101,2.5,0,1,Group B (Premium Shoppers),Electronics
+4,U030,H304,4.9,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U070,H305,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U017,H308,4.3,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U068,F203,4.6,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U037,H304,3.5,0,0,Group A (Standard Shoppers),Home & Kitchen
+4,U069,E104,4.3,1,1,Group B (Premium Shoppers),Electronics
+4,U047,H302,3.8,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U052,E105,5.0,1,1,Group B (Premium Shoppers),Electronics
+4,U057,H302,4.7,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U091,H305,4.5,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U077,F206,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U092,M503,3.8,1,1,Group B (Premium Shoppers),Books & Media
+4,U053,E103,1.3,0,1,Group B (Premium Shoppers),Electronics
+4,U082,H302,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U056,E108,4.8,1,1,Group B (Premium Shoppers),Electronics
+4,U054,H304,4.5,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U016,B403,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+4,U086,B404,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U068,F203,2.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U093,E106,2.6,0,1,Group B (Premium Shoppers),Electronics
+4,U060,B402,3.9,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U033,E108,4.9,1,0,Group A (Standard Shoppers),Electronics
+4,U091,H308,2.8,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U062,H308,3.1,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U096,F201,4.7,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U003,B407,3.4,0,0,Group A (Standard Shoppers),Beauty & Care
+4,U099,B405,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U048,B404,3.0,0,0,Group A (Standard Shoppers),Beauty & Care
+4,U063,F204,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U087,E103,3.4,0,1,Group B (Premium Shoppers),Electronics
+4,U052,E107,4.0,1,1,Group B (Premium Shoppers),Electronics
+4,U042,E103,3.2,0,0,Group A (Standard Shoppers),Electronics
+4,U014,M502,2.1,0,0,Group A (Standard Shoppers),Books & Media
+4,U059,B404,3.1,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U035,H302,1.8,0,0,Group A (Standard Shoppers),Home & Kitchen
+4,U059,B402,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U061,M501,3.7,0,1,Group B (Premium Shoppers),Books & Media
+4,U100,B403,3.4,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U017,H305,3.6,0,0,Group A (Standard Shoppers),Home & Kitchen
+4,U073,H303,2.5,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U032,F201,3.0,0,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U046,M507,3.7,0,0,Group A (Standard Shoppers),Books & Media
+4,U079,H302,2.9,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U081,M503,4.3,1,1,Group B (Premium Shoppers),Books & Media
+4,U061,F207,3.2,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U056,E101,3.5,0,1,Group B (Premium Shoppers),Electronics
+4,U071,B407,3.5,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U088,E103,3.2,0,1,Group B (Premium Shoppers),Electronics
+4,U076,H305,4.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U052,E102,4.7,1,1,Group B (Premium Shoppers),Electronics
+4,U004,H303,4.6,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U043,B405,4.9,1,0,Group A (Standard Shoppers),Beauty & Care
+4,U079,H301,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U050,B402,3.7,0,0,Group A (Standard Shoppers),Beauty & Care
+4,U064,M502,4.7,1,1,Group B (Premium Shoppers),Books & Media
+4,U057,H308,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U031,H307,2.8,0,0,Group A (Standard Shoppers),Home & Kitchen
+4,U075,B406,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U052,E107,4.1,1,1,Group B (Premium Shoppers),Electronics
+4,U096,F205,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U082,H305,4.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U088,F203,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U098,B402,3.8,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U007,E101,4.9,1,0,Group A (Standard Shoppers),Electronics
+4,U053,B401,4.3,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U080,B405,3.8,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U056,B403,3.3,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U096,B407,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U084,B404,3.1,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U001,E101,4.2,1,0,Group A (Standard Shoppers),Electronics
+4,U078,F203,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U063,B407,3.1,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U097,F204,3.1,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U084,M506,4.5,1,1,Group B (Premium Shoppers),Books & Media
+4,U027,H303,3.9,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U100,E105,4.5,1,1,Group B (Premium Shoppers),Electronics
+4,U076,M504,1.7,0,1,Group B (Premium Shoppers),Books & Media
+4,U039,F203,4.8,1,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U046,M501,4.2,1,0,Group A (Standard Shoppers),Books & Media
+4,U021,F202,2.5,0,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U061,M505,4.5,1,1,Group B (Premium Shoppers),Books & Media
+4,U077,F201,4.3,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U092,M505,3.5,0,1,Group B (Premium Shoppers),Books & Media
+4,U088,F207,4.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U008,H307,3.9,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U004,B406,3.6,0,0,Group A (Standard Shoppers),Beauty & Care
+4,U015,B408,4.7,1,0,Group A (Standard Shoppers),Beauty & Care
+4,U025,H303,3.4,0,0,Group A (Standard Shoppers),Home & Kitchen
+4,U083,E101,5.0,1,1,Group B (Premium Shoppers),Electronics
+4,U051,B404,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U013,B408,3.3,0,0,Group A (Standard Shoppers),Beauty & Care
+4,U078,F205,3.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U061,M505,4.9,1,1,Group B (Premium Shoppers),Books & Media
+4,U037,M506,3.7,0,0,Group A (Standard Shoppers),Books & Media
+4,U012,M502,4.1,1,0,Group A (Standard Shoppers),Books & Media
+4,U050,F202,3.2,0,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U086,B408,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U011,H307,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U052,F208,2.8,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U085,F208,2.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U079,H308,3.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U058,E108,2.9,0,1,Group B (Premium Shoppers),Electronics
+4,U006,M502,3.8,0,0,Group A (Standard Shoppers),Books & Media
+4,U092,M505,4.5,1,1,Group B (Premium Shoppers),Books & Media
+4,U057,H304,3.2,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U047,H302,4.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U060,B403,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U086,B404,4.5,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U042,B405,4.5,1,0,Group A (Standard Shoppers),Beauty & Care
+4,U069,E107,3.7,0,1,Group B (Premium Shoppers),Electronics
+4,U065,H302,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U094,B405,2.5,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U043,B408,4.9,1,0,Group A (Standard Shoppers),Beauty & Care
+4,U024,H306,2.6,0,0,Group A (Standard Shoppers),Home & Kitchen
+4,U061,M503,5.0,1,1,Group B (Premium Shoppers),Books & Media
+4,U067,B404,1.2,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U081,B408,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U030,H303,4.2,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U062,B402,3.4,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U076,H303,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U004,H306,4.1,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U024,E104,2.3,0,0,Group A (Standard Shoppers),Electronics
+4,U022,F205,3.9,1,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U048,B407,4.2,1,0,Group A (Standard Shoppers),Beauty & Care
+4,U056,E105,3.0,0,1,Group B (Premium Shoppers),Electronics
+4,U068,F206,3.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U069,M503,3.5,0,1,Group B (Premium Shoppers),Books & Media
+4,U090,M505,5.0,1,1,Group B (Premium Shoppers),Books & Media
+4,U094,F208,4.7,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U063,M507,2.8,0,1,Group B (Premium Shoppers),Books & Media
+4,U076,F201,1.9,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U082,H304,4.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U023,E106,3.9,1,0,Group A (Standard Shoppers),Electronics
+4,U053,E102,3.5,0,1,Group B (Premium Shoppers),Electronics
+4,U051,B402,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U086,E103,3.2,0,1,Group B (Premium Shoppers),Electronics
+4,U057,H302,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U032,M506,4.0,1,0,Group A (Standard Shoppers),Books & Media
+4,U005,H304,4.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U090,M501,4.9,1,1,Group B (Premium Shoppers),Books & Media
+4,U064,H307,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U096,F204,3.2,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U084,M503,3.8,1,1,Group B (Premium Shoppers),Books & Media
+4,U087,E102,4.7,1,1,Group B (Premium Shoppers),Electronics
+4,U085,B405,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U020,H301,4.1,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U010,E105,5.0,1,0,Group A (Standard Shoppers),Electronics
+4,U077,F208,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U084,F208,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U018,E104,5.0,1,0,Group A (Standard Shoppers),Electronics
+4,U072,E108,3.5,0,1,Group B (Premium Shoppers),Electronics
+4,U088,H306,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U100,F202,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U017,H308,4.3,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U007,E101,4.6,1,0,Group A (Standard Shoppers),Electronics
+4,U080,F207,2.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U082,H307,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U082,H303,2.9,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U100,E108,3.8,1,1,Group B (Premium Shoppers),Electronics
+4,U069,E103,4.8,1,1,Group B (Premium Shoppers),Electronics
+4,U017,M507,3.4,0,0,Group A (Standard Shoppers),Books & Media
+4,U034,E106,3.0,0,0,Group A (Standard Shoppers),Electronics
+4,U092,M502,3.7,0,1,Group B (Premium Shoppers),Books & Media
+4,U030,H301,4.3,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U088,F203,3.2,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U082,H303,4.2,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U032,H305,3.6,0,0,Group A (Standard Shoppers),Home & Kitchen
+4,U005,B405,1.6,0,0,Group A (Standard Shoppers),Beauty & Care
+4,U052,E101,5.0,1,1,Group B (Premium Shoppers),Electronics
+4,U091,H301,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+4,U094,B408,3.8,1,1,Group B (Premium Shoppers),Beauty & Care
+4,U078,F205,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U095,M508,4.9,1,1,Group B (Premium Shoppers),Books & Media
+4,U064,F202,4.2,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U002,B405,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+4,U015,F204,3.4,0,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U015,F204,4.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U064,M503,4.0,1,1,Group B (Premium Shoppers),Books & Media
+4,U035,M504,4.6,1,0,Group A (Standard Shoppers),Books & Media
+4,U079,F203,2.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U083,E107,4.2,1,1,Group B (Premium Shoppers),Electronics
+4,U068,M508,4.6,1,1,Group B (Premium Shoppers),Books & Media
+4,U092,M502,4.2,1,1,Group B (Premium Shoppers),Books & Media
+4,U041,E107,3.7,0,0,Group A (Standard Shoppers),Electronics
+4,U068,F208,4.1,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U052,B402,2.3,0,1,Group B (Premium Shoppers),Beauty & Care
+4,U095,M505,5.0,1,1,Group B (Premium Shoppers),Books & Media
+4,U053,F205,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+4,U044,F203,3.7,0,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U081,M506,4.0,1,1,Group B (Premium Shoppers),Books & Media
+4,U045,M501,2.1,0,0,Group A (Standard Shoppers),Books & Media
+4,U032,F203,4.9,1,0,Group A (Standard Shoppers),Fashion & Apparel
+4,U087,E102,4.0,1,1,Group B (Premium Shoppers),Electronics
+4,U034,H307,3.8,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U061,H306,1.8,0,1,Group B (Premium Shoppers),Home & Kitchen
+4,U037,M504,3.7,0,0,Group A (Standard Shoppers),Books & Media
+4,U090,M503,4.7,1,1,Group B (Premium Shoppers),Books & Media
+4,U067,M507,4.1,1,1,Group B (Premium Shoppers),Books & Media
+4,U004,H303,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+4,U018,E103,3.6,0,0,Group A (Standard Shoppers),Electronics
+4,U060,B404,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U063,F203,4.5,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U094,F203,4.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U090,M505,3.9,1,1,Group B (Premium Shoppers),Books & Media
+5,U012,H302,2.7,0,0,Group A (Standard Shoppers),Home & Kitchen
+5,U062,B405,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U063,F207,4.4,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U072,E108,4.8,1,1,Group B (Premium Shoppers),Electronics
+5,U065,B406,4.1,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U065,H301,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+5,U051,B402,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U093,M508,3.4,0,1,Group B (Premium Shoppers),Books & Media
+5,U002,E106,4.1,1,0,Group A (Standard Shoppers),Electronics
+5,U069,E101,5.0,1,1,Group B (Premium Shoppers),Electronics
+5,U087,M508,4.6,1,1,Group B (Premium Shoppers),Books & Media
+5,U013,B406,4.7,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U067,M501,4.7,1,1,Group B (Premium Shoppers),Books & Media
+5,U091,H304,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U094,B406,3.4,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U080,B402,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U068,F206,4.7,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U073,E107,3.2,0,1,Group B (Premium Shoppers),Electronics
+5,U050,B408,4.7,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U089,B401,3.8,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U054,F207,3.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U066,E106,2.6,0,1,Group B (Premium Shoppers),Electronics
+5,U051,B403,4.5,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U014,B407,4.4,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U001,E106,4.1,1,0,Group A (Standard Shoppers),Electronics
+5,U094,F204,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U075,B402,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U089,B403,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U097,F208,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U071,F206,3.2,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U092,M508,4.3,1,1,Group B (Premium Shoppers),Books & Media
+5,U100,E102,3.2,0,1,Group B (Premium Shoppers),Electronics
+5,U059,B405,3.2,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U053,F201,3.2,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U090,E108,2.4,0,1,Group B (Premium Shoppers),Electronics
+5,U074,E108,4.1,1,1,Group B (Premium Shoppers),Electronics
+5,U058,B405,4.0,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U074,E103,4.0,1,1,Group B (Premium Shoppers),Electronics
+5,U058,E103,3.8,1,1,Group B (Premium Shoppers),Electronics
+5,U081,M506,3.5,0,1,Group B (Premium Shoppers),Books & Media
+5,U079,F207,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U085,H304,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+5,U078,F204,3.8,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U069,F203,2.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U077,F201,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U070,M506,3.6,0,1,Group B (Premium Shoppers),Books & Media
+5,U083,E103,3.4,0,1,Group B (Premium Shoppers),Electronics
+5,U085,B401,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U066,B405,2.3,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U016,H301,3.2,0,0,Group A (Standard Shoppers),Home & Kitchen
+5,U071,B408,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U079,H303,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U043,B403,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U050,B402,4.2,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U098,B407,4.0,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U085,B401,3.4,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U063,F204,3.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U083,B404,4.1,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U077,F205,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U075,B406,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U065,H308,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U091,H305,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U007,H303,3.9,1,0,Group A (Standard Shoppers),Home & Kitchen
+5,U043,B408,4.7,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U051,H306,3.7,0,1,Group B (Premium Shoppers),Home & Kitchen
+5,U054,E106,3.8,1,1,Group B (Premium Shoppers),Electronics
+5,U069,B406,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U081,M506,4.7,1,1,Group B (Premium Shoppers),Books & Media
+5,U019,H305,3.2,0,0,Group A (Standard Shoppers),Home & Kitchen
+5,U002,B405,4.2,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U085,B406,4.0,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U075,B403,3.1,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U029,E103,3.7,0,0,Group A (Standard Shoppers),Electronics
+5,U072,E106,4.3,1,1,Group B (Premium Shoppers),Electronics
+5,U054,E104,3.5,0,1,Group B (Premium Shoppers),Electronics
+5,U003,B405,2.3,0,0,Group A (Standard Shoppers),Beauty & Care
+5,U088,F201,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U091,H301,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U077,F201,4.2,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U081,B404,3.0,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U047,H306,4.2,1,0,Group A (Standard Shoppers),Home & Kitchen
+5,U051,M508,2.5,0,1,Group B (Premium Shoppers),Books & Media
+5,U019,E101,4.5,1,0,Group A (Standard Shoppers),Electronics
+5,U044,F201,4.2,1,0,Group A (Standard Shoppers),Fashion & Apparel
+5,U039,F205,3.4,0,0,Group A (Standard Shoppers),Fashion & Apparel
+5,U047,H304,4.6,1,0,Group A (Standard Shoppers),Home & Kitchen
+5,U095,M505,2.9,0,1,Group B (Premium Shoppers),Books & Media
+5,U026,B408,3.7,0,0,Group A (Standard Shoppers),Beauty & Care
+5,U077,F207,4.7,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U032,B404,3.5,0,0,Group A (Standard Shoppers),Beauty & Care
+5,U069,E105,2.7,0,1,Group B (Premium Shoppers),Electronics
+5,U070,E106,2.4,0,1,Group B (Premium Shoppers),Electronics
+5,U008,F208,3.3,0,0,Group A (Standard Shoppers),Fashion & Apparel
+5,U096,F201,4.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U055,H304,4.5,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U083,M507,2.1,0,1,Group B (Premium Shoppers),Books & Media
+5,U020,M505,2.3,0,0,Group A (Standard Shoppers),Books & Media
+5,U059,H306,3.0,0,1,Group B (Premium Shoppers),Home & Kitchen
+5,U023,E101,4.2,1,0,Group A (Standard Shoppers),Electronics
+5,U087,E101,3.9,1,1,Group B (Premium Shoppers),Electronics
+5,U051,B401,3.1,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U078,B405,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U091,H302,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U092,M508,3.3,0,1,Group B (Premium Shoppers),Books & Media
+5,U059,H304,4.2,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U017,H307,3.1,0,0,Group A (Standard Shoppers),Home & Kitchen
+5,U078,F204,3.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U029,H305,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+5,U094,F208,4.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U030,H307,4.7,1,0,Group A (Standard Shoppers),Home & Kitchen
+5,U083,E107,3.4,0,1,Group B (Premium Shoppers),Electronics
+5,U062,B403,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U097,F206,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U041,H301,3.6,0,0,Group A (Standard Shoppers),Home & Kitchen
+5,U030,H304,4.1,1,0,Group A (Standard Shoppers),Home & Kitchen
+5,U062,B407,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U091,E102,3.4,0,1,Group B (Premium Shoppers),Electronics
+5,U065,H303,4.2,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U051,B408,4.0,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U061,M502,4.5,1,1,Group B (Premium Shoppers),Books & Media
+5,U066,B401,4.3,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U084,M503,4.5,1,1,Group B (Premium Shoppers),Books & Media
+5,U034,H305,4.8,1,0,Group A (Standard Shoppers),Home & Kitchen
+5,U009,F206,4.1,1,0,Group A (Standard Shoppers),Fashion & Apparel
+5,U093,M506,5.0,1,1,Group B (Premium Shoppers),Books & Media
+5,U013,B405,3.7,0,0,Group A (Standard Shoppers),Beauty & Care
+5,U067,M507,4.8,1,1,Group B (Premium Shoppers),Books & Media
+5,U054,H303,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U084,E103,2.3,0,1,Group B (Premium Shoppers),Electronics
+5,U088,F202,4.7,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U051,B403,4.7,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U082,H302,4.2,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U079,F201,3.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U077,F202,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U089,B404,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U084,M503,3.8,1,1,Group B (Premium Shoppers),Books & Media
+5,U042,B403,4.5,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U085,B406,3.8,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U096,F202,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U035,M505,4.8,1,0,Group A (Standard Shoppers),Books & Media
+5,U051,B401,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U070,H303,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U061,M508,4.8,1,1,Group B (Premium Shoppers),Books & Media
+5,U079,H301,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U088,H302,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U022,M508,2.6,0,0,Group A (Standard Shoppers),Books & Media
+5,U015,B406,5.0,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U096,F206,3.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U070,M501,2.3,0,1,Group B (Premium Shoppers),Books & Media
+5,U098,B405,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U028,M505,3.9,1,0,Group A (Standard Shoppers),Books & Media
+5,U016,F203,3.4,0,0,Group A (Standard Shoppers),Fashion & Apparel
+5,U082,H302,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U099,E104,3.2,0,1,Group B (Premium Shoppers),Electronics
+5,U045,E103,4.4,1,0,Group A (Standard Shoppers),Electronics
+5,U090,H303,2.4,0,1,Group B (Premium Shoppers),Home & Kitchen
+5,U058,E103,4.6,1,1,Group B (Premium Shoppers),Electronics
+5,U067,M508,5.0,1,1,Group B (Premium Shoppers),Books & Media
+5,U095,E103,3.3,0,1,Group B (Premium Shoppers),Electronics
+5,U085,B406,3.9,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U007,B404,3.5,0,0,Group A (Standard Shoppers),Beauty & Care
+5,U092,M506,4.1,1,1,Group B (Premium Shoppers),Books & Media
+5,U030,E104,2.6,0,0,Group A (Standard Shoppers),Electronics
+5,U058,H305,2.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+5,U074,F206,2.7,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U093,M501,4.6,1,1,Group B (Premium Shoppers),Books & Media
+5,U069,B402,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U053,F201,3.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U085,B401,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U085,M506,3.8,1,1,Group B (Premium Shoppers),Books & Media
+5,U096,F205,4.6,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U092,M504,4.7,1,1,Group B (Premium Shoppers),Books & Media
+5,U003,B407,3.9,1,0,Group A (Standard Shoppers),Beauty & Care
+5,U073,H306,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U054,H308,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U087,E104,4.8,1,1,Group B (Premium Shoppers),Electronics
+5,U078,F206,3.8,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U056,E106,3.9,1,1,Group B (Premium Shoppers),Electronics
+5,U076,H308,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+5,U058,E102,4.7,1,1,Group B (Premium Shoppers),Electronics
+5,U067,M503,5.0,1,1,Group B (Premium Shoppers),Books & Media
+5,U060,B407,4.7,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U080,B404,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U076,H308,4.5,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U077,F205,2.9,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U094,F201,3.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U066,E101,2.9,0,1,Group B (Premium Shoppers),Electronics
+5,U061,B405,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+5,U064,M508,3.0,0,1,Group B (Premium Shoppers),Books & Media
+5,U039,F208,4.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+5,U092,M505,4.9,1,1,Group B (Premium Shoppers),Books & Media
+5,U092,M503,4.1,1,1,Group B (Premium Shoppers),Books & Media
+5,U090,E106,2.8,0,1,Group B (Premium Shoppers),Electronics
+5,U097,F207,3.7,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U036,H306,3.0,0,0,Group A (Standard Shoppers),Home & Kitchen
+5,U077,F207,4.1,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U092,M505,4.4,1,1,Group B (Premium Shoppers),Books & Media
+5,U066,F201,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U027,H302,4.4,1,0,Group A (Standard Shoppers),Home & Kitchen
+5,U004,E106,3.1,0,0,Group A (Standard Shoppers),Electronics
+5,U069,E105,5.0,1,1,Group B (Premium Shoppers),Electronics
+5,U082,H303,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U056,E101,3.7,0,1,Group B (Premium Shoppers),Electronics
+5,U098,E108,1.9,0,1,Group B (Premium Shoppers),Electronics
+5,U098,B408,4.5,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U018,M506,4.3,1,0,Group A (Standard Shoppers),Books & Media
+5,U080,M508,4.4,1,1,Group B (Premium Shoppers),Books & Media
+5,U097,F203,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U089,B403,4.5,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U062,E106,3.4,0,1,Group B (Premium Shoppers),Electronics
+5,U070,H302,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U072,E102,3.9,1,1,Group B (Premium Shoppers),Electronics
+5,U054,H304,3.2,0,1,Group B (Premium Shoppers),Home & Kitchen
+5,U064,M501,3.1,0,1,Group B (Premium Shoppers),Books & Media
+5,U047,M508,3.4,0,0,Group A (Standard Shoppers),Books & Media
+5,U054,H303,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U066,F204,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U089,F207,4.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U061,M502,4.0,1,1,Group B (Premium Shoppers),Books & Media
+5,U081,M505,4.5,1,1,Group B (Premium Shoppers),Books & Media
+5,U028,M501,4.7,1,0,Group A (Standard Shoppers),Books & Media
+5,U096,F204,3.2,0,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U053,F202,4.7,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U050,M506,3.3,0,0,Group A (Standard Shoppers),Books & Media
+5,U064,M508,5.0,1,1,Group B (Premium Shoppers),Books & Media
+5,U066,F205,4.3,1,1,Group B (Premium Shoppers),Fashion & Apparel
+5,U090,M507,5.0,1,1,Group B (Premium Shoppers),Books & Media
+5,U057,H307,3.7,0,1,Group B (Premium Shoppers),Home & Kitchen
+5,U072,E103,4.2,1,1,Group B (Premium Shoppers),Electronics
+5,U071,M506,2.8,0,1,Group B (Premium Shoppers),Books & Media
+5,U054,M502,3.6,0,1,Group B (Premium Shoppers),Books & Media
+5,U034,F208,2.5,0,0,Group A (Standard Shoppers),Fashion & Apparel
+5,U092,M502,3.1,0,1,Group B (Premium Shoppers),Books & Media
+5,U021,F204,2.7,0,0,Group A (Standard Shoppers),Fashion & Apparel
+5,U057,H304,4.7,1,1,Group B (Premium Shoppers),Home & Kitchen
+5,U085,B401,3.9,1,1,Group B (Premium Shoppers),Beauty & Care
+5,U059,B402,3.4,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U056,E106,4.4,1,1,Group B (Premium Shoppers),Electronics
+6,U003,B405,4.6,1,0,Group A (Standard Shoppers),Beauty & Care
+6,U088,E105,2.7,0,1,Group B (Premium Shoppers),Electronics
+6,U069,E102,4.4,1,1,Group B (Premium Shoppers),Electronics
+6,U059,B404,4.0,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U077,F205,4.5,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U091,B405,3.3,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U069,F205,3.0,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U062,B407,3.3,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U016,B403,3.7,0,0,Group A (Standard Shoppers),Beauty & Care
+6,U059,B408,3.3,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U056,E105,3.7,0,1,Group B (Premium Shoppers),Electronics
+6,U022,F206,3.7,0,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U081,M505,4.2,1,1,Group B (Premium Shoppers),Books & Media
+6,U001,B405,3.1,0,0,Group A (Standard Shoppers),Beauty & Care
+6,U089,B401,4.8,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U093,E102,3.6,0,1,Group B (Premium Shoppers),Electronics
+6,U093,M502,4.8,1,1,Group B (Premium Shoppers),Books & Media
+6,U088,F205,4.4,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U076,H304,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U072,E107,4.1,1,1,Group B (Premium Shoppers),Electronics
+6,U086,B401,4.1,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U079,M507,1.4,0,1,Group B (Premium Shoppers),Books & Media
+6,U091,H307,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U046,B403,3.9,1,0,Group A (Standard Shoppers),Beauty & Care
+6,U055,H306,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U050,B401,3.7,0,0,Group A (Standard Shoppers),Beauty & Care
+6,U096,E104,3.6,0,1,Group B (Premium Shoppers),Electronics
+6,U035,M503,4.6,1,0,Group A (Standard Shoppers),Books & Media
+6,U029,H302,4.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+6,U039,F201,5.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U069,E102,3.8,0,1,Group B (Premium Shoppers),Electronics
+6,U054,H306,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U067,M505,3.7,0,1,Group B (Premium Shoppers),Books & Media
+6,U081,M508,4.7,1,1,Group B (Premium Shoppers),Books & Media
+6,U076,H303,4.1,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U042,B405,4.4,1,0,Group A (Standard Shoppers),Beauty & Care
+6,U088,F208,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U063,F201,4.1,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U006,H306,2.9,0,0,Group A (Standard Shoppers),Home & Kitchen
+6,U006,M504,5.0,1,0,Group A (Standard Shoppers),Books & Media
+6,U097,F207,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U031,H303,3.8,1,0,Group A (Standard Shoppers),Home & Kitchen
+6,U080,B407,4.5,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U090,M508,3.3,0,1,Group B (Premium Shoppers),Books & Media
+6,U011,F204,2.5,0,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U081,H301,3.6,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U095,M508,3.7,0,1,Group B (Premium Shoppers),Books & Media
+6,U025,B402,4.4,1,0,Group A (Standard Shoppers),Beauty & Care
+6,U048,F204,3.3,0,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U090,M505,4.5,1,1,Group B (Premium Shoppers),Books & Media
+6,U097,F208,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U057,H301,3.5,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U093,M507,3.1,0,1,Group B (Premium Shoppers),Books & Media
+6,U052,H306,1.8,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U053,F208,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U098,B405,4.0,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U069,H305,3.1,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U020,H301,5.0,1,0,Group A (Standard Shoppers),Home & Kitchen
+6,U064,M507,5.0,1,1,Group B (Premium Shoppers),Books & Media
+6,U074,E105,3.7,0,1,Group B (Premium Shoppers),Electronics
+6,U067,E103,2.7,0,1,Group B (Premium Shoppers),Electronics
+6,U045,E105,3.5,0,0,Group A (Standard Shoppers),Electronics
+6,U076,H307,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U051,H305,3.2,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U082,H305,3.5,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U030,B407,3.4,0,0,Group A (Standard Shoppers),Beauty & Care
+6,U022,F202,4.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U089,M504,2.6,0,1,Group B (Premium Shoppers),Books & Media
+6,U075,H304,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U070,B403,2.9,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U098,B405,3.6,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U079,H301,3.3,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U054,E107,3.5,0,1,Group B (Premium Shoppers),Electronics
+6,U036,E101,3.9,1,0,Group A (Standard Shoppers),Electronics
+6,U090,H303,3.8,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U073,E107,2.7,0,1,Group B (Premium Shoppers),Electronics
+6,U052,E107,3.9,1,1,Group B (Premium Shoppers),Electronics
+6,U062,B404,4.3,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U095,B408,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U094,F203,3.7,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U040,F208,3.4,0,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U098,E103,3.4,0,1,Group B (Premium Shoppers),Electronics
+6,U095,M507,4.4,1,1,Group B (Premium Shoppers),Books & Media
+6,U054,H305,3.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U070,H302,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U085,B402,3.9,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U075,M505,2.0,0,1,Group B (Premium Shoppers),Books & Media
+6,U096,H307,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U054,H303,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U046,M508,5.0,1,0,Group A (Standard Shoppers),Books & Media
+6,U088,F204,4.5,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U010,M507,3.6,0,0,Group A (Standard Shoppers),Books & Media
+6,U079,H303,3.2,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U082,H307,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U094,F208,4.4,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U093,B403,3.9,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U034,H303,4.7,1,0,Group A (Standard Shoppers),Home & Kitchen
+6,U089,B406,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U037,M508,4.1,1,0,Group A (Standard Shoppers),Books & Media
+6,U090,F202,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U091,H301,3.9,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U095,M503,5.0,1,1,Group B (Premium Shoppers),Books & Media
+6,U092,M503,3.6,0,1,Group B (Premium Shoppers),Books & Media
+6,U046,M507,3.9,1,0,Group A (Standard Shoppers),Books & Media
+6,U064,M504,3.9,1,1,Group B (Premium Shoppers),Books & Media
+6,U084,E108,4.1,1,1,Group B (Premium Shoppers),Electronics
+6,U084,H305,2.0,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U073,H303,3.7,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U078,F202,4.4,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U058,M503,3.7,0,1,Group B (Premium Shoppers),Books & Media
+6,U053,F206,4.7,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U075,F205,2.2,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U052,E104,4.5,1,1,Group B (Premium Shoppers),Electronics
+6,U065,H301,4.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U092,M503,2.7,0,1,Group B (Premium Shoppers),Books & Media
+6,U068,F206,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U054,E101,3.2,0,1,Group B (Premium Shoppers),Electronics
+6,U076,B407,3.5,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U078,F208,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U028,E107,3.2,0,0,Group A (Standard Shoppers),Electronics
+6,U067,M505,4.6,1,1,Group B (Premium Shoppers),Books & Media
+6,U033,E102,3.6,0,0,Group A (Standard Shoppers),Electronics
+6,U071,B407,4.8,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U066,B404,2.8,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U016,B403,4.2,1,0,Group A (Standard Shoppers),Beauty & Care
+6,U038,B402,2.8,0,0,Group A (Standard Shoppers),Beauty & Care
+6,U088,F206,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U042,B404,3.5,0,0,Group A (Standard Shoppers),Beauty & Care
+6,U051,B401,2.7,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U097,F206,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U087,E105,5.0,1,1,Group B (Premium Shoppers),Electronics
+6,U083,E106,4.6,1,1,Group B (Premium Shoppers),Electronics
+6,U064,M502,3.7,0,1,Group B (Premium Shoppers),Books & Media
+6,U079,F201,3.1,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U002,B401,4.7,1,0,Group A (Standard Shoppers),Beauty & Care
+6,U065,H302,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U051,B403,4.3,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U059,F206,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U052,E102,4.5,1,1,Group B (Premium Shoppers),Electronics
+6,U086,F203,3.7,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U087,E103,3.5,0,1,Group B (Premium Shoppers),Electronics
+6,U009,F202,4.0,1,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U011,H308,4.9,1,0,Group A (Standard Shoppers),Home & Kitchen
+6,U073,B404,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U089,B405,4.8,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U084,M507,4.7,1,1,Group B (Premium Shoppers),Books & Media
+6,U051,B401,4.6,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U070,H301,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U020,H308,4.1,1,0,Group A (Standard Shoppers),Home & Kitchen
+6,U091,H308,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U075,M503,2.6,0,1,Group B (Premium Shoppers),Books & Media
+6,U056,B406,3.0,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U082,H304,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U053,F208,3.0,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U066,F202,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U062,B402,4.5,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U052,B401,3.4,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U090,M503,4.2,1,1,Group B (Premium Shoppers),Books & Media
+6,U077,F204,4.3,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U092,M501,3.9,1,1,Group B (Premium Shoppers),Books & Media
+6,U053,F205,3.7,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U050,B403,3.5,0,0,Group A (Standard Shoppers),Beauty & Care
+6,U096,F206,4.2,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U065,H302,4.5,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U063,F201,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U060,B407,3.4,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U087,E103,3.5,0,1,Group B (Premium Shoppers),Electronics
+6,U092,H301,2.8,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U039,F205,3.6,0,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U057,H304,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U058,F201,2.9,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U077,F201,4.2,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U053,F204,3.9,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U056,F205,3.8,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U061,M507,3.6,0,1,Group B (Premium Shoppers),Books & Media
+6,U064,E106,3.6,0,1,Group B (Premium Shoppers),Electronics
+6,U075,F203,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U085,B402,5.0,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U082,H304,3.7,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U063,M501,3.1,0,1,Group B (Premium Shoppers),Books & Media
+6,U079,H304,4.4,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U075,H305,3.7,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U097,F202,4.8,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U078,F206,4.7,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U081,M504,3.6,0,1,Group B (Premium Shoppers),Books & Media
+6,U054,B408,4.0,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U068,B404,3.8,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U022,F201,2.3,0,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U095,M508,4.4,1,1,Group B (Premium Shoppers),Books & Media
+6,U071,B404,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U066,E106,4.8,1,1,Group B (Premium Shoppers),Electronics
+6,U096,F207,3.7,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U048,M504,4.0,1,0,Group A (Standard Shoppers),Books & Media
+6,U066,H305,3.1,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U062,B406,3.5,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U091,H304,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U054,H306,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U085,F201,3.3,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U068,F202,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U098,M503,2.2,0,1,Group B (Premium Shoppers),Books & Media
+6,U084,F208,4.5,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U072,E104,4.7,1,1,Group B (Premium Shoppers),Electronics
+6,U077,F202,4.2,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U080,B404,4.4,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U022,F206,4.2,1,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U062,B406,2.0,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U077,F208,3.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U024,B406,2.9,0,0,Group A (Standard Shoppers),Beauty & Care
+6,U058,E104,4.6,1,1,Group B (Premium Shoppers),Electronics
+6,U012,M504,3.3,0,0,Group A (Standard Shoppers),Books & Media
+6,U080,B406,4.2,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U081,M507,4.2,1,1,Group B (Premium Shoppers),Books & Media
+6,U070,F207,3.1,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U089,B407,3.7,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U022,H306,2.7,0,0,Group A (Standard Shoppers),Home & Kitchen
+6,U074,B403,1.9,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U072,F202,2.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U066,F207,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U088,F202,3.5,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U057,H302,4.8,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U079,H301,4.2,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U077,F205,3.0,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U093,M504,3.7,0,1,Group B (Premium Shoppers),Books & Media
+6,U029,H308,4.6,1,0,Group A (Standard Shoppers),Home & Kitchen
+6,U071,B403,4.3,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U076,H308,4.3,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U039,F206,3.4,0,0,Group A (Standard Shoppers),Fashion & Apparel
+6,U057,H302,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U091,F201,3.4,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U054,H301,4.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U072,E106,5.0,1,1,Group B (Premium Shoppers),Electronics
+6,U088,F201,3.6,0,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U079,H305,5.0,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U054,M505,3.2,0,1,Group B (Premium Shoppers),Books & Media
+6,U066,F206,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U070,H305,4.1,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U025,B401,3.4,0,0,Group A (Standard Shoppers),Beauty & Care
+6,U074,E108,4.2,1,1,Group B (Premium Shoppers),Electronics
+6,U081,M502,4.8,1,1,Group B (Premium Shoppers),Books & Media
+6,U077,F202,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U003,E107,3.9,1,0,Group A (Standard Shoppers),Electronics
+6,U053,F205,4.6,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U083,E105,3.0,0,1,Group B (Premium Shoppers),Electronics
+6,U067,M502,3.8,1,1,Group B (Premium Shoppers),Books & Media
+6,U053,F208,5.0,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U071,B403,4.8,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U059,B404,2.9,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U069,E104,2.7,0,1,Group B (Premium Shoppers),Electronics
+6,U070,H302,4.6,1,1,Group B (Premium Shoppers),Home & Kitchen
+6,U098,B408,4.3,1,1,Group B (Premium Shoppers),Beauty & Care
+6,U088,F208,4.4,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U093,M503,2.3,0,1,Group B (Premium Shoppers),Books & Media
+6,U061,M506,4.6,1,1,Group B (Premium Shoppers),Books & Media
+6,U021,H305,4.3,1,0,Group A (Standard Shoppers),Home & Kitchen
+6,U078,F207,4.5,1,1,Group B (Premium Shoppers),Fashion & Apparel
+6,U060,H305,3.8,0,1,Group B (Premium Shoppers),Home & Kitchen
+6,U069,B407,2.7,0,1,Group B (Premium Shoppers),Beauty & Care
+6,U025,B401,4.7,1,0,Group A (Standard Shoppers),Beauty & Care
+6,U077,F205,4.0,1,1,Group B (Premium Shoppers),Fashion & Apparel

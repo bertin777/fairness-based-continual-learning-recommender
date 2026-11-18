@@ -1,0 +1,101 @@
+user_id,name,demographic_group,group_id,favorite_category,activity_tier
+U001,Aarav_1,Group A (Standard Shoppers),0,Electronics,Standard
+U002,Meera_2,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U003,Rohan_3,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U004,Priya_4,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U005,Vikram_5,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U006,Sneha_6,Group A (Standard Shoppers),0,Books & Media,Standard
+U007,Kiran_7,Group A (Standard Shoppers),0,Electronics,Standard
+U008,Divya_8,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U009,Arjun_9,Group A (Standard Shoppers),0,Fashion & Apparel,Standard
+U010,Ananya_10,Group A (Standard Shoppers),0,Electronics,Standard
+U011,Aarav_11,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U012,Meera_12,Group A (Standard Shoppers),0,Books & Media,Standard
+U013,Rohan_13,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U014,Priya_14,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U015,Vikram_15,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U016,Sneha_16,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U017,Kiran_17,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U018,Divya_18,Group A (Standard Shoppers),0,Electronics,Standard
+U019,Arjun_19,Group A (Standard Shoppers),0,Books & Media,Standard
+U020,Ananya_20,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U021,Aarav_21,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U022,Meera_22,Group A (Standard Shoppers),0,Fashion & Apparel,Standard
+U023,Rohan_23,Group A (Standard Shoppers),0,Electronics,Standard
+U024,Priya_24,Group A (Standard Shoppers),0,Books & Media,Standard
+U025,Vikram_25,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U026,Sneha_26,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U027,Kiran_27,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U028,Divya_28,Group A (Standard Shoppers),0,Books & Media,Standard
+U029,Arjun_29,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U030,Ananya_30,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U031,Aarav_31,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U032,Meera_32,Group A (Standard Shoppers),0,Fashion & Apparel,Standard
+U033,Rohan_33,Group A (Standard Shoppers),0,Electronics,Standard
+U034,Priya_34,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U035,Vikram_35,Group A (Standard Shoppers),0,Books & Media,Standard
+U036,Sneha_36,Group A (Standard Shoppers),0,Electronics,Standard
+U037,Kiran_37,Group A (Standard Shoppers),0,Books & Media,Standard
+U038,Divya_38,Group A (Standard Shoppers),0,Books & Media,Standard
+U039,Arjun_39,Group A (Standard Shoppers),0,Fashion & Apparel,Standard
+U040,Ananya_40,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U041,Aarav_41,Group A (Standard Shoppers),0,Electronics,Standard
+U042,Meera_42,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U043,Rohan_43,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U044,Priya_44,Group A (Standard Shoppers),0,Fashion & Apparel,Standard
+U045,Vikram_45,Group A (Standard Shoppers),0,Electronics,Standard
+U046,Sneha_46,Group A (Standard Shoppers),0,Books & Media,Standard
+U047,Kiran_47,Group A (Standard Shoppers),0,Home & Kitchen,Standard
+U048,Divya_48,Group A (Standard Shoppers),0,Books & Media,Standard
+U049,Arjun_49,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U050,Ananya_50,Group A (Standard Shoppers),0,Beauty & Care,Standard
+U051,David_51,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U052,Emma_52,Group B (Premium Shoppers),1,Electronics,Premium
+U053,Liam_53,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U054,Olivia_54,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U055,Noah_55,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U056,Sophia_56,Group B (Premium Shoppers),1,Electronics,Premium
+U057,James_57,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U058,Isabella_58,Group B (Premium Shoppers),1,Electronics,Premium
+U059,Lucas_59,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U060,Mia_60,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U061,David_61,Group B (Premium Shoppers),1,Books & Media,Premium
+U062,Emma_62,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U063,Liam_63,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U064,Olivia_64,Group B (Premium Shoppers),1,Books & Media,Premium
+U065,Noah_65,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U066,Sophia_66,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U067,James_67,Group B (Premium Shoppers),1,Books & Media,Premium
+U068,Isabella_68,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U069,Lucas_69,Group B (Premium Shoppers),1,Electronics,Premium
+U070,Mia_70,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U071,David_71,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U072,Emma_72,Group B (Premium Shoppers),1,Electronics,Premium
+U073,Liam_73,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U074,Olivia_74,Group B (Premium Shoppers),1,Electronics,Premium
+U075,Noah_75,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U076,Sophia_76,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U077,James_77,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U078,Isabella_78,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U079,Lucas_79,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U080,Mia_80,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U081,David_81,Group B (Premium Shoppers),1,Books & Media,Premium
+U082,Emma_82,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U083,Liam_83,Group B (Premium Shoppers),1,Electronics,Premium
+U084,Olivia_84,Group B (Premium Shoppers),1,Books & Media,Premium
+U085,Noah_85,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U086,Sophia_86,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U087,James_87,Group B (Premium Shoppers),1,Electronics,Premium
+U088,Isabella_88,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U089,Lucas_89,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U090,Mia_90,Group B (Premium Shoppers),1,Books & Media,Premium
+U091,David_91,Group B (Premium Shoppers),1,Home & Kitchen,Premium
+U092,Emma_92,Group B (Premium Shoppers),1,Books & Media,Premium
+U093,Liam_93,Group B (Premium Shoppers),1,Books & Media,Premium
+U094,Olivia_94,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U095,Noah_95,Group B (Premium Shoppers),1,Books & Media,Premium
+U096,Sophia_96,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U097,James_97,Group B (Premium Shoppers),1,Fashion & Apparel,Premium
+U098,Isabella_98,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U099,Lucas_99,Group B (Premium Shoppers),1,Beauty & Care,Premium
+U100,Mia_100,Group B (Premium Shoppers),1,Electronics,Premium
